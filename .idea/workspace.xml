@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b92abf93-389a-45bb-a01e-fdf7ef4b5aa3" name="Default Changelist" comment="Changes to logo and index.html" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bhx1BZvSaRV310IXO6mOR3UUUP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b92abf93-389a-45bb-a01e-fdf7ef4b5aa3" name="Default Changelist" comment="" />
+      <created>1589097908661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589097908661</updated>
+      <workItem from="1589097910801" duration="1843000" />
+      <workItem from="1589099763388" duration="175000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes to logo and index.html">
+      <created>1589099540211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589099540211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes to logo and index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to logo and index.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1589098076140">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="211" y="27" width="1022" height="737" key="SettingsEditor/0.27.1360.741@0.27.1360.741" timestamp="1589098076140" />
+    <state x="275" y="119" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1589099543194">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="275" y="119" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1360.741@0.27.1360.741" timestamp="1589099543194" />
+    <state x="451" y="312" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589099841311">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="451" y="312" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1360.741@0.27.1360.741" timestamp="1589099841311" />
+    <state x="405" y="91" width="539" height="619" key="git4idea.branch.GitSmartOperationDialog" timestamp="1589099446426">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="405" y="91" width="539" height="619" key="git4idea.branch.GitSmartOperationDialog/0.27.1360.741@0.27.1360.741" timestamp="1589099446426" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589099748458">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1360.741@0.27.1360.741" timestamp="1589099748457" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+I"3<h1 id="bitcore-wallet-services">Bitcore Wallet Services</h1>
+
+<p>Bitcore wallet services is used to communicate with the bitcore nodes where wallet services maintain standardised API for</p>
+
+<ol>
+  <li>Managing wallets</li>
+  <li>Notifications on the wallets</li>
+  <li>Prices</li>
+  <li>Etc.</li>
+</ol>
+
+:ET

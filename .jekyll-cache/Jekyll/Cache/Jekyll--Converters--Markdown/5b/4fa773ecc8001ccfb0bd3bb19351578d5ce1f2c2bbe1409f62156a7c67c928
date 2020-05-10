@@ -1,0 +1,41 @@
+I"‹<h1 id="setting-up-node">Setting up node</h1>
+
+<h2 id="nodes">Nodes</h2>
+
+<p>What are nodes ?</p>
+
+<p>Blockchain nodes are responsible for acting as a communication point that may perform different functions.</p>
+
+<p>We use bitcore open source API.</p>
+
+<h2 id="bitcore">Bitcore</h2>
+
+<p>We are using the fork of the bitcore services, it combines bitcore node exposes node functionality to REST API which can be securely queried over the REST network and can submit transaction also.</p>
+
+<p>You might need to need to know how does blockchain works.</p>
+
+<p>Understanding and using bitcore nodes.</p>
+
+<p>First part is to understand what is bitcore node, nodes are connected via p2p messaging protocol.</p>
+
+<p>Read p2p protocol for better understanding.</p>
+
+<p>Every node has a its own set of command which performs like</p>
+
+<p><code class="highlighter-rouge">ping, getblocks</code></p>
+
+<p>Why we need to interact with them ,so imaging a situation:</p>
+
+<ol>
+  <li>User A sends a transction ,to User B, typicaly it is recorded by the blockchain database.</li>
+  <li>We are indexing all of the block information which contains transaction level data.</li>
+  <li>To be able to qeuery quickly later we index them and stores them</li>
+</ol>
+
+<p>So in nutshell, bitcore-node stores and let us query the indexed DB over mongo.</p>
+
+<p>That is why, mongo is used.</p>
+
+<p>Setting up regtest nodes to see how it work.</p>
+
+:ET

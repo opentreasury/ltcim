@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-20T17:19:08+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Liquidity in action</title><subtitle>A novel payment over crytpographic ledgers.</subtitle><entry><title type="html">New LTCIM Website</title><link href="http://localhost:4000/2020/05/17/new-ltcim-website.html" rel="alternate" type="text/html" title="New LTCIM Website" /><published>2020-05-17T00:00:00+05:30</published><updated>2020-05-17T00:00:00+05:30</updated><id>http://localhost:4000/2020/05/17/new-ltcim-website</id><content type="html" xml:base="http://localhost:4000/2020/05/17/new-ltcim-website.html">&lt;p&gt;This is the new LTCIM website created on Jekyll!&lt;/p&gt;</content><author><name></name></author><summary type="html">This is the new LTCIM website created on Jekyll!</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-20T18:02:44+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Liquidity in action</title><subtitle>A novel payment over crytpographic ledgers.</subtitle><entry><title type="html">New LTCIM Website</title><link href="http://localhost:4000/2020/05/17/new-ltcim-website.html" rel="alternate" type="text/html" title="New LTCIM Website" /><published>2020-05-17T00:00:00+05:30</published><updated>2020-05-17T00:00:00+05:30</updated><id>http://localhost:4000/2020/05/17/new-ltcim-website</id><content type="html" xml:base="http://localhost:4000/2020/05/17/new-ltcim-website.html">&lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;title&gt;New LTCIM Website | Liquidity in action&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;A novel payment over crytpographic ledgers.&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;link href=&quot;/assets/css/stack-interface.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/socicon.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/iconsmind.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/bootstrap.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/stack-interface.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/theme-greensea.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;/assets/css/custom.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;all&quot; /&gt;
+    &lt;link href=&quot;https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700&quot; rel=&quot;stylesheet&quot; /&gt;
+    &lt;link href=&quot;https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+    &lt;link href=&quot;/assets/css/font-roboto.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+
+&lt;/head&gt;
+
+&lt;p&gt;This is the new LTCIM website created on Jekyll!&lt;/p&gt;</content><author><name></name></author><summary type="html">New LTCIM Website | Liquidity in action This is the new LTCIM website created on Jekyll!</summary></entry></feed>

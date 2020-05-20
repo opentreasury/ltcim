@@ -1,54 +1,70 @@
 ---
 layout: default
 ---
-
-<div class="main-container">
-    <section class="space--sm">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-10 col-lg-8">
-                    <div class="masonry masonry-blog-list">
-                        <div class="masonry-filter-container text-center d-flex justify-content-center align-items-center"> <span>Category:</span>
-                            <div class="masonry-filter-holder">
-                                <div class="masonry__filters" data-filter-all-text="All Categories">
-                                    <ul>
-                                        <li class="active" data-masonry-filter="*">All Categories</li>
-                                        <li data-masonry-filter="announcements">Announcements</li>
-                                        <li data-masonry-filter="web-design">Web Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <hr>
-                        <div class="masonry__container masonry--active">
-                            <article class="masonry__item voh vnn filter-web-design" data-masonry-filter="Web Design" style="position: absolute; left: 0px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms;">
-                                <div class="article__title text-center">
-                                    <a href="#">
-                                        <h2>Building an online audience</h2>
-                                    </a> <span>May 2nd 2016 in </span><span><a href="#">Web Design</a></span> </div>
-                                <div class="article__body">
-                                    <a href="#"> <img alt="Image" src="img/blog-1.jpg"> </a>
-                                    <p> Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design innovate quantitative vs. qualitative pivot thought leader viral paradigm cortado affordances. </p> <a href="#">Continue reading »</a> </div>
-                            </article>
-                            <article class="masonry__item voh vnn filter-announcements" data-masonry-filter="Announcements" style="position: absolute; left: 0px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms;">
-                                <div class="article__title text-center">
-                                    <a href="#">
-                                        <h2>Introducing Stack for enterprise</h2>
-                                    </a> <span>May 1st 2016 in </span><span><a href="#">Announcements</a></span> </div>
-                                <div class="article__body">
-                                    <p> Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design innovate quantitative vs. qualitative pivot thought leader viral paradigm cortado affordances. </p> <a href="#">Continue reading »</a> </div>
-                            </article>
-                        </div>
-                        <div class="pagination"> <a class="pagination__prev" href="#" title="Previous Page">«</a>
-                            <ol>
-                                <li><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li class="pagination__current">3</li>
-                                <li><a href="#">4</a></li>
-                            </ol> <a class="pagination__next" href="#" title="Next Page">»</a> </div>
-                    </div>
-                </div>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="text-center">
+                <ul style="list-style-position: inside">
+                    {% for post in site.posts%}
+                        <li>
+                            <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
+                        </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
-    </section>
-</div>
+    </div>
+</section>
+
+<!--<div class="main-container">-->
+<!--    <section class="space&#45;&#45;sm">-->
+<!--        <div class="container">-->
+<!--            <div class="row justify-content-center">-->
+<!--                <div class="col-md-10 col-lg-8">-->
+<!--                    <div class="masonry masonry-blog-list">-->
+<!--                        <div class="masonry-filter-container text-center d-flex justify-content-center align-items-center"> <span>Category:</span>-->
+<!--                            <div class="masonry-filter-holder">-->
+<!--                                <div class="masonry__filters" data-filter-all-text="All Categories">-->
+<!--                                    <ul>-->
+<!--                                        <li class="active" data-masonry-filter="*">All Categories</li>-->
+<!--                                        <li data-masonry-filter="announcements">Announcements</li>-->
+<!--                                        <li data-masonry-filter="web-design">Releases</li>-->
+<!--                                    </ul>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <hr>-->
+<!--                        <div class="masonry__container masonry&#45;&#45;active">-->
+<!--                            <article class="masonry__item voh vnn filter-web-design" data-masonry-filter="Web Design" style="position: absolute; left: 0px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms;">-->
+<!--                                <div class="article__title text-center">-->
+<!--                                    <a href="#">-->
+
+<!--                                        <h2>{{ % page.title % }}</h2>-->
+<!--                                    </a> <span>May 2nd 2016 in </span><span><a href="#">Web Design</a></span> </div>-->
+<!--                                <div class="article__body">-->
+<!--                                    <a href="#"> <img alt="Image" src="img/blog-1.jpg"> </a>-->
+<!--                                    <p> Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design innovate quantitative vs. qualitative pivot thought leader viral paradigm cortado affordances. </p> <a href="#">Continue reading »</a> </div>-->
+<!--                            </article>-->
+<!--                            <article class="masonry__item voh vnn filter-announcements" data-masonry-filter="Announcements" style="position: absolute; left: 0px; transition-property: opacity, transform; transition-duration: 0.4s; transition-delay: 0ms;">-->
+<!--                                <div class="article__title text-center">-->
+<!--                                    <a href="#">-->
+<!--                                        <h2>Introducing Stack for enterprise</h2>-->
+<!--                                    </a> <span>May 1st 2016 in </span><span><a href="#">Announcements</a></span> </div>-->
+<!--                                <div class="article__body">-->
+<!--                                    <p> Co-working SpaceTeam fund big data prototype prototype long shadow latte big data. Innovate affordances personas user centered design paradigm user centered design innovate quantitative vs. qualitative pivot thought leader viral paradigm cortado affordances. </p> <a href="#">Continue reading »</a> </div>-->
+<!--                            </article>-->
+<!--                        </div>-->
+<!--                        <div class="pagination"> <a class="pagination__prev" href="#" title="Previous Page">«</a>-->
+<!--                            <ol>-->
+<!--                                <li><a href="#">1</a></li>-->
+<!--                                <li><a href="#">2</a></li>-->
+<!--                                <li class="pagination__current">3</li>-->
+<!--                                <li><a href="#">4</a></li>-->
+<!--                            </ol> <a class="pagination__next" href="#" title="Next Page">»</a> </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
+<!--</div>-->

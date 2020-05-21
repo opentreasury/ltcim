@@ -1,4 +1,9 @@
-# Some new functional service
+---
+description: Functinal Processing.
+---
+# Template to follow the functional design when writing a doc.
+
+## Some new functional service
 
 Comments about what to include in each section are in italic grey text. Please remove these comments once you have supplied the requested information. This document should be concise with a total length of 2 to 4 pages.
 

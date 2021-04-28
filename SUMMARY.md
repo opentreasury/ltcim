@@ -4,6 +4,7 @@
 
 ## Design
 
+* [Economics](design/economics.md)
 * [Functional Process](design/functional-process.md)
 * [Standard Intermediary](design/standard-intermediary.md)
 * [Standard user process](design/untitled.md)

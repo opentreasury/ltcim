@@ -418,10 +418,8 @@ export default function Index() {
 
                 </h3>
                 <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  This extension comes a lot of fully coded examples that help
-                  you get started faster. You can adjust the colors and also the
-                  programming language. You can change the text and images and
-                  you're good to go.
+                  Economic incentinve to participates, participant of all sides yes or
+                   no are incentivised to vote and help acheive goals and management of funds for various purposes.
                 </p>
                 <ul className="list-none mt-6">
                   <li className="py-2">
@@ -433,7 +431,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Built by Developers for Developers
+                          Anonymous voting reputation system
                         </h4>
                       </div>
                     </div>
@@ -447,7 +445,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Carefully crafted code for Components
+                          Real reward system
                         </h4>
                       </div>
                     </div>
@@ -461,7 +459,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Dynamic Javascript Components
+                          Participate to change the new world
                         </h4>
                       </div>
                     </div>
@@ -486,11 +484,9 @@ export default function Index() {
 
         <div className="justify-center text-center flex flex-wrap mt-24">
           <div className="w-full md:w-6/12 px-12 md:px-4">
-            <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
+            <h2 className="font-semibold text-4xl">Active projects and fund raising</h2>
             <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-              Notus NextJS is a completly new product built using our past
-              experience in web templates. Take the examples we made for you and
-              start playing with them.
+              Share these projects with people you know maybe they can help them acheive what is needed.
             </p>
           </div>
         </div>
@@ -559,23 +555,21 @@ export default function Index() {
                 <i className="fas fa-code-branch text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal text-white">
-                Open Source
+                Its all open
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400">
-                Since{" "}
+                This{" "}
                 <a
                   href="https://tailwindcss.com/?ref=creative"
                   className="text-blueGray-300"
                   target="_blank"
                 >
-                  Tailwind CSS
+                  initiative
                 </a>{" "}
-                is an open source project we wanted to continue this movement
-                too. You can give this version a try to feel the design and also
-                test the quality of the code!
+                is an open source project, this is a movement that employs different ideas that work together join or contribute in different ways.
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
-                Get it free on Github and please help us spread the news with a
+                Give us a star on Github and please help us spread the news with a
                 Star!
               </p>
               <a
@@ -624,12 +618,10 @@ export default function Index() {
                 </span>
               </p>
               <h3 className="font-semibold text-3xl">
-                Do you love this Starter Kit?
+                Do you love this project?
               </h3>
               <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-                Cause if you do, it can be yours now. Hit the buttons below to
-                navigate to get the Free version for your next project. Build a
-                new web app or give an old project a new look!
+                Cause if you do , please donate to us directly!
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a
@@ -645,7 +637,7 @@ export default function Index() {
                   className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
                   <i className="fab fa-github text-lg mr-1"></i>
-                  <span>Help With a Star</span>
+                  <span>Help With a Star and Donation</span>
                 </a>
               </div>
               <div className="text-center mt-16"></div>

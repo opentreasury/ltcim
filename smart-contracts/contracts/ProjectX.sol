@@ -20,6 +20,9 @@ contract ProjectX {
 
   uint256 public projectsCount;
 
+  event ProjectCreated(string _title, uint256 _projectId, address _owner);
+  event ContributionsAdded(uint256 _projectId, address _sender, uint256 _amount);
+
   constructor() public {
 
   }
@@ -31,12 +34,16 @@ contract ProjectX {
     projects[_projectId].owner = msg.sender;
     projects[_projectId].status = ProjectStatus.OPEN;
 
+    emit ProjectCreated(_title, _projectId, msg.sender);
+
     return _projectId;
   }
 
   function contributeEther(uint256 _projectId) external payable {
     require(projects[_projectId].status == ProjectStatus.OPEN, "Project is either closed or doesnt exists");
     projects[_projectId].ethContributions += msg.value;
+
+    emit ContributionsAdded(_projectId, msg.sender, msg.value);
   }
 
   function releaseFunds() external {

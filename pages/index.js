@@ -37,9 +37,8 @@ export default function Index() {
                   Get started
                 </a>
                 <a
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
+                  href="/donate"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-                  target="_blank"
                 >
                   Donate for Improving HealthCare in India
                 </a>

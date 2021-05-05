@@ -34,3 +34,4 @@ Non profits and communities use this process:
 - Users gets verified 
 - Payment channels is opened for funding.
 
+***Note- Contributors please switch the current branch to ```ltcim``` for development on UI and ```smart-contracts``` to work with underlying blockchain smart contracts***

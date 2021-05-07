@@ -209,21 +209,6 @@ export default function donate() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src="/img/devendra-yadav.jpeg"
-                    className="shadow-lg rounded-full mx-auto max-w-120-px"
-                  />
-                  <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Devendra Yadav</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Developer
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
-                <div className="px-6">
-                  <img
-                    alt="..."
                     src="/img/lara-muellner.jpeg"
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
@@ -254,13 +239,73 @@ export default function donate() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src="/img/ankit-muellner.jpeg"
+                    src="/img/devendra-yadav.jpeg"
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Ankit Muellner</h5>
+                    <h5 className="text-xl font-bold">Devendra Yadav</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Founder and CEO
+                      Developer
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/kevin-madhu.jpeg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Kevin Madhu</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Developer
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/anurag-garg.jpeg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Anurag Garg</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Developer
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/denis-chernenko.jpeg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Dennis Chernenko</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Volunteer
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/harsha-medireddy.jpg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Harsha Medireddy</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Volunteer
                     </p>
                   </div>
                 </div>

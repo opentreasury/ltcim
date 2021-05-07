@@ -1,10 +1,23 @@
 import React from "react";
 import Link from "next/link";
+import {loadStripe} from '@stripe/stripe-js';
+import {
+  CardElement,
+  Elements,
+  useStripe,
+  useElements,
+} from '@stripe/react-stripe-js';
+
+
 
 // components
 
 import Navbar from "components/Navbars/AuthNavbar.js";
 import Footer from "components/Footers/Footer.js";
+import CheckoutForm from "components/Payments/CheckoutForm.js";
+
+// constants
+const stripePromise = loadStripe('pk_test_pl6wPveYW33JGWEyFUmJdvIY');
 
 export default function donate() {
   return (
@@ -126,13 +139,9 @@ export default function donate() {
                   good to go. Just make sure you enable them first via
                   JavaScript.
                 </p>
-                <Link href="/">
-                  <a href="#pablo" className="font-bold text-blueGray-700 mt-8">
-                  <button className="text-lightBlue-500 bg-transparent border border-solid border-lightBlue-500 hover:bg-lightBlue-500 hover:text-white active:bg-lightBlue-600 font-bold uppercase px-8 py-3 rounded-full outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button">
-                    <i className="fas fa-heart"></i> Donate
-                  </button>
-                  </a>
-                </Link>
+                <Elements stripe={stripePromise}>
+                  <CheckoutForm />
+                </Elements>
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -221,7 +230,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Lara Muellner</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Human Resource
+                      Board Member
                     </p>
                   </div>
                 </div>
@@ -236,7 +245,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Saransh Sharma</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Researcher
+                      Board Member
                     </p>
                   </div>
                 </div>

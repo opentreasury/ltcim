@@ -13,4 +13,5 @@
 
 * [Bitcore Wallet Services](technical/bitcore-wallet-services.md)
 * [Setting up node](technical/setting-up-node.md)
+* [Non-Fungible Tokens (NFTs)](technical/non-fungible-tokens.md)
 

@@ -44,7 +44,9 @@ export default function donate() {
                     We can't do it without your support.
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                    Help us to eradicate poverty around the world and save the million of lives from unwanted demises. Thousands of innocent lives we lost everyday due to Covid-19.
+                    India is in a state of humanitarian crisis.
+                    Actual and correct data may not be visible due to multiple reasons such as lag in reporting,
+                    challenges in reconciliation between different states and health care units, socio-economic and political factors.
                   </p>
                 </div>
               </div>
@@ -80,11 +82,15 @@ export default function donate() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                       <i className="fas fa-award"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Awarded Agency</h6>
+                    <h6 className="text-xl font-semibold">New Infections</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Divide details about your product or agency work into
-                      parts. A paragraph describing a feature will be enough.
+                      Going by the official numbers, over 400000 new infections are reported each day.
                     </p>
+                    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+                    style={{color:'#097fff'}}
+                    >
+                      WHO Data
+                    </a>
                   </div>
                 </div>
               </div>
@@ -97,8 +103,10 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Join Us.</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Keep you user engaged by providing meaningful information.
-                      Remember that by this time, the user is curious.
+                      Thousands of COVID-19 patients are in intensive care gasping for breathe and medical oxygen. Old and young alike are losing their lives against the deadly virus.
+                    </p>
+                    <p>
+                      Join us to save lives.
                     </p>
                   </div>
                 </div>
@@ -112,9 +120,9 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Company</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Write a few lines about each one. A paragraph describing a
-                      feature will be enough. Keep you user engaged!
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is Non-profit arm of Muellners based in Denmark which was registered by one of the Board Members of Muellners Limited Liability Group in Dec 2019.
                     </p>
+
                   </div>
                 </div>
               </div>
@@ -126,22 +134,22 @@ export default function donate() {
                   <i className="fas fa-user-friends text-xl"></i>
                 </div>
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  Donate us to save lives.
+                  Each lost life is a deadly reminder of the vulnerability of humankind.
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Don't let your uses guess by attaching tooltips and popoves to
-                  any element. Just make sure you enable them first via
-                  JavaScript.
+                  India is a country of diversified communities.
+                  India is an important country in terms of the global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
+                  There are several mutations being identified and these will show up in other parts of the world.
+                  As the largest democracy in the world and with its young population is a promising land of opportunities and a land to discover spirituality.
+
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                  The kit comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go. Just make sure you enable them first via
-                  JavaScript.
+                The world is connected.
+                To enable India is to enable the future of the world.
+
+                While millions are projected to die due to this catastrophe, several millions face plight.
+                This plight is indeed around the basis of the human society that we have thus created.
                 </p>
-                <Elements stripe={stripePromise}>
-                  <CheckoutForm />
-                </Elements>
               </div>
 
               <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -155,12 +163,15 @@ export default function donate() {
                     >
                     </svg>
                     <h4 className="text-xl font-bold text-white">
-                      Top Notch Services
+                      Food Security
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                      The Arctic Ocean freezes every winter and much of the
-                      sea-ice then thaws every summer, and that process will
-                      continue whatever happens.
+                    As we noticed last year during the challenging times of covid 1st wave, the most vulnerable in India were left without food security.
+                    And this wave is not going to change this dismal reality a lot.
+
+                    And this divide is becoming increasingly visible as the world navigates through this crisis.
+
+                    Our solution is to reinforce this system positively with refined ideas of social and transparent aid.
                     </p>
                   </blockquote>
                 </div>
@@ -192,15 +203,71 @@ export default function donate() {
 
         </section>
 
+        <div className="container mt-5 mx-auto px-4">
+          <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64">
+            <div className="px-6">
+              <div className="mt-10 py-10 text-center">
+                <div className="flex flex-wrap justify-center">
+                  <div className="w-full lg:w-9/12 px-4">
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                    India is battling a ferocious second COVID-19 wave which has overwhelmed its fragile health system. Some frontline workers have claimed that “this wave is indeed a Tsunami.”
+
+                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.
+
+                    Our impact group:
+                    E.g In Delhi, with its more than 30 million citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
+
+                    India’s growth story and market opportunities depended strongly on its middle class households. And they are the most impacted either with the disease or the after effects of currently unorganised disease response.
+                    A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
+
+                    Government is not the only institution that has to be responsible. Different pillars of democracy including the media and you- the people are all majority stakeholders in this continuing fight against the invisible virus.
+
+                    Statistically, this vulnerable group of daily wage workers have zero to little savings.
+                    Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
+                    They need help and aid in a way that can bring them out of the crisis.
+                    Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
+                    Our next step is to feed these families to the scale that is unimaginable.
+                    These families must be able to provide their loved ones with food.
+                    We must support them. This is a declaration of humanity, one of the value structures that  “each human being has a right to food.”
+
+                    To prevent an exacerbating hunger crisis alongside this health crisis, providing food as first aid is critical.
+
+                    With our Covid Relief Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
+                    The food aid will be distributed to civic authorities and front linked workers such as Municipality Departments, Police Departments and other local NGOs, including representatives of people.
+
+                    Where the proceeds go to:
+
+                    100 % of all donations will be allocated to these local kitchens and food rations, including provisions for personal protective equipment for the distributors and social workers engaged in this initiative.
+
+                    We understand that these measures are only short-term solutions to the crisis.
+                    However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.
+                    Until then, we must help India and especially its most vulnerable with a first response.
+
+                    <br/>
+                    <br/>
+                    <strong>Please donate. Every cent makes a difference.</strong>
+                    </p>
+                    <div className="flex flex-wrap items-center mt-4">
+                      <div className="w-full md:w-5/12 px-4 pt-4 mr-auto ml-auto">
+                        <Elements stripe={stripePromise}>
+                          <CheckoutForm />
+                        </Elements>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <section className="pt-20 pb-48">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">Here are our heroes</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record maximum.
+                  Our heroes are working day and night in the Covid Relief in India through social, financial and technical means.
                 </p>
               </div>
             </div>
@@ -245,7 +312,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Devendra Yadav</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Developer
+                      Software Developer
                     </p>
                   </div>
                 </div>
@@ -260,7 +327,22 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Kevin Madhu</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Developer
+                      Backend Developer
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/nasser-kaze.jpg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Nasser Yemdjih Kaze</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Software Engineer
                     </p>
                   </div>
                 </div>
@@ -275,7 +357,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Anurag Garg</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Developer
+                      Solidity Developer
                     </p>
                   </div>
                 </div>
@@ -290,7 +372,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Dennis Chernenko</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Volunteer
+                      Social Connector
                     </p>
                   </div>
                 </div>
@@ -305,7 +387,7 @@ export default function donate() {
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Harsha Medireddy</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Volunteer
+                      People Connector
                     </p>
                   </div>
                 </div>

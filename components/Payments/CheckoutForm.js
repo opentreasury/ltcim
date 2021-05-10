@@ -22,8 +22,8 @@ export default function CheckoutForm (){
 
   return (
     <form onSubmit={handleSubmit}>
-      <CardElement />
-      <button className="text-lightBlue-500 bg-transparent border border-solid border-lightBlue-500 hover:bg-lightBlue-500 hover:text-white active:bg-lightBlue-600 font-bold uppercase px-8 py-3 rounded-full outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" disabled={!stripe}>
+      <CardElement className="mb-5"/>
+      <button className="text-lightBlue-500 bg-transparent border border-solid border-lightBlue-500 hover:bg-lightBlue-500 hover:text-white active:bg-lightBlue-600 font-bold uppercase px-4 py-3 rounded-full outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" disabled={!stripe}>
         <i className="fas fa-heart"></i> Donate
       </button>
     </form>

@@ -35,25 +35,33 @@ export default function Footer() {
                   className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
-                  <i className="fab fa-twitter"></i>
+                  <a href="https://twitter.com/muellnersorg" target="_blank">
+                    <i className="fab fa-twitter"></i>
+                  </a>
                 </button>
                 <button
                   className="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
+                <a href="https://www.facebook.com/muellnersorg" target="_blank">
                   <i className="fab fa-facebook-square"></i>
+                </a>
                 </button>
                 <button
                   className="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
-                  <i className="fab fa-dribbble"></i>
+                <a href="https://www.linkedin.com/company/muellnersfoundation" target="_blank">
+                  <i className="fab fa-linkedin"></i>
+                </a>
                 </button>
                 <button
                   className="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
+                <a href="https://github.com/muellners/" target="_blank">
                   <i className="fab fa-github"></i>
+                </a>
                 </button>
               </div>
             </div>
@@ -67,7 +75,8 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/presentation?ref=nnjs-footer"
+                        href="https://www.muellners.com/"
+                        target="_blank"
                       >
                         About Us
                       </a>
@@ -75,15 +84,17 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://blog.creative-tim.com?ref=nnjs-footer"
+                        href="https://research.muellners.org/"
+                        target="_blank"
                       >
-                        Blog
+                        Research
                       </a>
                     </li>
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.github.com/creativetimofficial?ref=nnjs-footer"
+                        href="https://github.com/muellners/"
+                        target="_blank"
                       >
                         Github
                       </a>
@@ -91,7 +102,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/bootstrap-themes/free?ref=nnjs-footer"
+                        href="/donate"
                       >
                         Donate
                       </a>
@@ -106,7 +117,8 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md?ref=nnjs-footer"
+                        href="https://github.com/muellners/research/blob/master/LICENSE"
+                        target="_blank"
                       >
                         MIT License
                       </a>
@@ -114,7 +126,8 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/terms?ref=nnjs-footer"
+                        href="https://docs.muellners.info/"
+                        target="_blank"
                       >
                         Terms & Conditions
                       </a>
@@ -122,7 +135,8 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/privacy?ref=nnjs-footer"
+                        href="https://docs.muellners.info/privacy/cookie-policy"
+                        target="_blank"
                       >
                         Privacy Policy
                       </a>
@@ -130,7 +144,8 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/contact-us?ref=nnjs-footer"
+                        href="https://www.muellners.org/contact.html"
+                        target="_blank"
                       >
                         Contact Us
                       </a>

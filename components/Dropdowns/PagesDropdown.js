@@ -20,14 +20,15 @@ const PagesDropdown = () => {
     <>
       <a
         className="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-        href="#pablo"
+        href="https://www.muellners.com/"
+        target="_blank"
         ref={btnDropdownRef}
-        onClick={(e) => {
+        onClick={(e) => {/*
           e.preventDefault();
           dropdownPopoverShow ? closeDropdownPopover() : openDropdownPopover();
-        }}
+        */}}
       >
-        Follow Us
+        About Us
       </a>
       <div
         ref={popoverDropdownRef}

@@ -76,7 +76,7 @@ export default function donate() {
         <section className="pb-20 bg-blueGray-200 -mt-24">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
-              <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
+              <div className="pt-6 w-full md:w-4/12 px-4 text-center">
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
@@ -84,7 +84,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">New Infections</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Going by the official numbers, over 400000 new infections are reported each day.
+                      Going by the official numbers, over 400000 new infections are reported each day and the numbers keep on incresing with every minute.
                     </p>
                     <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
                     style={{color:'#097fff'}}
@@ -111,16 +111,15 @@ export default function donate() {
                   </div>
                 </div>
               </div>
-
               <div className="pt-6 w-full md:w-4/12 px-4 text-center">
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
                       <i className="fas fa-fingerprint"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Verified Company</h6>
+                    <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is Non-profit arm of Muellners based in Denmark which was registered by one of the Board Members of Muellners Limited Liability Group in Dec 2019.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is Non-profit arm of Muellners based in Denmark which was registered by Muellners Limited Liability Group in Dec 2019.
                     </p>
 
                   </div>
@@ -206,10 +205,10 @@ export default function donate() {
         <div className="container mt-5 mx-auto px-4">
           <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64">
             <div className="px-6">
-              <div className="mt-10 py-10 text-center">
+              <div className="mt-10 py-10 text-left">
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
                     India is battling a ferocious second COVID-19 wave which has overwhelmed its fragile health system. Some frontline workers have claimed that “this wave is indeed a Tsunami.”
 
                     During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.
@@ -221,7 +220,8 @@ export default function donate() {
                     A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
 
                     Government is not the only institution that has to be responsible. Different pillars of democracy including the media and you- the people are all majority stakeholders in this continuing fight against the invisible virus.
-
+                    </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
                     They need help and aid in a way that can bring them out of the crisis.
@@ -232,23 +232,27 @@ export default function donate() {
 
                     To prevent an exacerbating hunger crisis alongside this health crisis, providing food as first aid is critical.
 
+                    </p>
+
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+
                     With our Covid Relief Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
                     The food aid will be distributed to civic authorities and front linked workers such as Municipality Departments, Police Departments and other local NGOs, including representatives of people.
 
-                    Where the proceeds go to:
+                  <br/> Where the proceeds go to:<br/>
 
                     100 % of all donations will be allocated to these local kitchens and food rations, including provisions for personal protective equipment for the distributors and social workers engaged in this initiative.
-
+                    </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
                     However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.
                     Until then, we must help India and especially its most vulnerable with a first response.
-
-                    <br/>
-                    <br/>
+                    </p>
+                    <p className="mb-4 text-lg text-center leading-relaxed text-blueGray-700">
                     <strong>Please donate. Every cent makes a difference.</strong>
                     </p>
-                    <div className="flex flex-wrap items-center mt-4">
-                      <div className="w-full md:w-5/12 px-4 pt-4 mr-auto ml-auto">
+                    <div className="flex flex-wrap mt-5 text-center">
+                      <div className="w-full px-4 pt-4 mr-auto ml-auto">
                         <Elements stripe={stripePromise}>
                           <CheckoutForm />
                         </Elements>

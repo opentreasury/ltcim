@@ -17,7 +17,7 @@ import Footer from "components/Footers/Footer.js";
 import CheckoutForm from "components/Payments/CheckoutForm.js";
 
 // constants
-const stripePromise = loadStripe('pk_test_pl6wPveYW33JGWEyFUmJdvIY');
+const stripePromise = loadStripe('pk_live_f1QXHWq2s6Ws9TBvq92kCnrA00MriUqIpq');
 
 export default function donate() {
   return (

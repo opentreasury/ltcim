@@ -248,7 +248,6 @@ export default function Index() {
             </div>
           </div>
         </div>
-
       </section>
 
       <section className="py-20 bg-blueGray-600 overflow-hidden">

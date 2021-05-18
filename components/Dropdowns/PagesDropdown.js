@@ -46,7 +46,7 @@ const PagesDropdown = () => {
         </span>
         <Link href="/admin/dashboard">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -56,7 +56,7 @@ const PagesDropdown = () => {
         </Link>
         <Link href="/admin/settings">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -66,7 +66,7 @@ const PagesDropdown = () => {
         </Link>
         <Link href="/admin/tables">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -76,7 +76,7 @@ const PagesDropdown = () => {
         </Link>
         <Link href="/admin/maps">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -94,7 +94,7 @@ const PagesDropdown = () => {
         </span>
         <Link href="/auth/login">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -104,7 +104,7 @@ const PagesDropdown = () => {
         </Link>
         <Link href="/auth/register">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -122,7 +122,7 @@ const PagesDropdown = () => {
         </span>
         <Link href="/landing">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }
@@ -132,7 +132,7 @@ const PagesDropdown = () => {
         </Link>
         <Link href="/profile">
           <a
-            href="#pablo"
+            href="#"
             className={
               "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
             }

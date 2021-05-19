@@ -17,16 +17,15 @@ export default function Index() {
                 Bitrupee - Digital Fund for the crises across the country
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Digital INR or Bitrupee is the need of the hour, we are in the crisis where institutions are{" "}
+                Digital INR or Bitrupee is the need of the hour, we are in the crisis where more than{" "}
                 <a
-                  href="https://tailwindcss.com/?ref=creativetim"
+                  href="https://www.cnbc.com/2021/03/19/covid-pandemic-pushes-75-million-more-people-into-poverty-in-india-study.html"
                   className="text-blueGray-600"
                   target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  failing to provide for 75+ million Indians.
+                  rel="noopener noreferrer">
+                  75+ million Indians are failing to access basic sustenance needs.
                 </a>
-                We bring an economic system that aims to distribute value. Equitable, Fair and with Transparency.
+                 We bring an economic system that aims to distribute value. Equitable, Fair and with Transparency.
               </p>
               <div className="mt-12">
                 <a

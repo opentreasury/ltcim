@@ -215,7 +215,7 @@ export default function donate() {
 
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left"> Our impact group: In semi urban and semi rural regions, with its millions of citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
 
-                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a dis-organised pandemic response.
+                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a unorganised pandemic response.
                     A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
 
                     Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
@@ -236,13 +236,14 @@ export default function donate() {
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
 
                     With our Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
-                    The food aid will be distributed to 'on ground' civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
+                    The food aid will be distributed to on ground civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 
                   <br/> Where the proceeds go to:<br/>
 
                     100 % of all donations will be allocated to the 
-                    <p>1. Procuring Food packets</p> <p>2. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p><p>3.Technology Development & Maintenance by Foundation
-                    </p>
+                    <br>a. Procuring Food packets<br/> 
+                    <br> b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.<br/><br>3.Technology Development & Maintenance by Foundation
+                    <br/>
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
                     However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.
@@ -271,7 +272,7 @@ export default function donate() {
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">Here are our Contributors</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  Our volunteers are working day and night on this Covid Relief in India through social, financial and technical means.
+                  Our volunteers are working day and night on this Covid Relief through social, financial and technical means.
                 </p>
               </div>
             </div>

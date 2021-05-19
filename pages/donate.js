@@ -104,7 +104,7 @@ export default function donate() {
                     <p className="mt-2 mb-4 text-blueGray-500">
                       Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the deadly virus.
                     </p>
-                                        <p><a href="https://learn.muellners.org"
+                                        <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
                       Join us to save lives. 
                     </a></p>
@@ -119,8 +119,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening, a voluntary association, registered in Dec 2019, with several initiatives including promoting open source technologies such as <a href="https://finscale.org"
-                    style={{color:'#097fff'}}>Finscale</a> to solve global issues with key digital initiatives. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack and many more.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening, a voluntary association, registered in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital initiatives. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack and many more.
                     </p>
 
                   </div>
@@ -138,9 +137,9 @@ export default function donate() {
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
                   India is a country of diversified communities.
-                  India is an important country in terms of the global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
+                  India is an important country in terms of our global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its young population, India is a promising land of opportunities and a land to discover spirituality.
+                  As the largest democracy in the world and with its young population, India has a promising future and is a land to discover spirituality.
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
@@ -219,7 +218,7 @@ export default function donate() {
                     India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a dis-organised pandemic response.
                     A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
 
-                    Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and you- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
+                    Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
                     
  
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
@@ -228,7 +227,7 @@ export default function donate() {
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
                     Our next step is to feed these families to the scale that is unimaginable.
                     These families must be able to provide their loved ones with food.
-                    We must support them. This is a declaration of humanity, one of the value structures that  “each human being has a right to food.”
+                    We must support them. This is a declaration of humanity, one of the tenet that “each human being has a right to food.”
 
                     To prevent an exacerbating hunger crisis alongside this health crisis, providing food as first aid is critical.
 
@@ -236,12 +235,13 @@ export default function donate() {
 
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
 
-                    With our Covid Relief Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
-                    The food aid will be distributed to civic authorities and front linked workers such as Municipality Departments, Police Departments and other local NGOs, including representatives of people.
+                    With our Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
+                    The food aid will be distributed to 'on ground' civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 
                   <br/> Where the proceeds go to:<br/>
 
-                    100 % of all donations will be allocated to these local kitchens and food rations, including provisions for personal protective equipment for the distributors and social workers engaged in this initiative.
+                    100 % of all donations will be allocated to the 
+                    <p>1. Procuring Food packets</p> <p>2. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p><p>3.Technology Development & Maintenance by Foundation
                     </p>
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
@@ -249,7 +249,7 @@ export default function donate() {
                     Until then, we must help India and especially its most vulnerable with a first response.
                     </p>
                     <p className="mb-4 text-lg text-center leading-relaxed text-blueGray-700">
-                    <strong>Please donate. Every cent makes a difference.</strong>
+                    <strong>Please donate. The buck stops here with YOU!</strong>
                     </p>
                     <div className="flex flex-wrap mt-5 text-center">
                       <div className="w-full px-4 pt-4 mr-auto ml-auto">
@@ -269,9 +269,9 @@ export default function donate() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our heroes</h2>
+                <h2 className="text-4xl font-semibold">Here are our Contributors</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  Our heroes are working day and night in the Covid Relief in India through social, financial and technical means.
+                  Our volunteers are working day and night on this Covid Relief in India through social, financial and technical means.
                 </p>
               </div>
             </div>
@@ -285,7 +285,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Lara Muellner</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Board Member
                     </p>
                   </div>
@@ -300,7 +300,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Saransh Sharma</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Board Member
                     </p>
                   </div>
@@ -315,7 +315,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Devendra Yadav</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Software Developer
                     </p>
                   </div>
@@ -330,8 +330,8 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Kevin Madhu</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Backend Developer
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                      Software Developer
                     </p>
                   </div>
                 </div>
@@ -345,7 +345,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Nasser Yemdjih Kaze</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Software Engineer
                     </p>
                   </div>
@@ -360,7 +360,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Anurag Garg</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Solidity Developer
                     </p>
                   </div>
@@ -375,7 +375,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Dennis Chernenko</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       Social Connector
                     </p>
                   </div>
@@ -390,7 +390,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Harsha Medireddy</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
                       People Connector
                     </p>
                   </div>

@@ -14,7 +14,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Bitrupee - Digital Fund for the criss across the country
+                Bitrupee - Digital Fund for the crises across the country
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
                 Digital INR or Bitrupee is the need of the hour, we are in the crisis where government is{" "}
@@ -170,10 +170,10 @@ export default function Index() {
                 Transparency
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Non Profit will oversee a flow of information concerning the identities of the individuals: artists or everyday laymen, who are currently out of work due to
+                Non Profit oversees a flow of information concerning the identities of the individuals: artists or everyday laymen, who are currently out of work due to
                 the cover of the present crisis.
                 A liability account with the corresponding
-                KYC certificates will be issued to all, the donators and those among whom the donation will be distributed.
+                KYC certificates will be issued to all - both the donors and those among whom the donation will be distributed.
               </p>
             </div>
             <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
@@ -184,7 +184,7 @@ export default function Index() {
                   Open Resource Management
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Manage resources using Multi Signature wallet that allow transfer of ownership using a set threshold,
+                  Manage resources using multi signature wallet that allow transfer of ownership using a set threshold,
                   Current resource distribution is accumulated in centrally powered
                   entities that leads to moral hazard,in absence of unaccountable
                   leaders with common users practicing  low political power, governing agencies may advance in its own interest
@@ -198,8 +198,7 @@ export default function Index() {
                   Economic Incentives
                 </h3>
                 <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  Economic incentinve to participates, participant of all sides yes or
-                   no are incentivised to vote and help acheive goals and management of funds for various purposes.
+                  Economic incentive to participates, participant of all sides are incentivised to vote and help acheive goals and management of funds for various purposes.
                 </p>
                 <ul className="list-none mt-6">
                   <li className="py-2">
@@ -239,7 +238,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Participate to change the new world
+                          Participate to contribute to the new world
                         </h4>
                       </div>
                     </div>
@@ -269,7 +268,7 @@ export default function Index() {
                 >
                   initiative
                 </a>{" "}
-                is an open source project, this is a movement that employs different ideas that work together join or contribute in different ways.
+                is an open source project, this is a movement that employs different ideas that work together. Join or contribute in different ways.
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
                 Give us a star on Github and please help us spread the news with a

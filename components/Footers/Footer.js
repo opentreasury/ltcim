@@ -75,7 +75,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.muellners.com/"
+                        href="https://www.muellners.org/"
                         target="_blank"
                       >
                         About Us
@@ -164,7 +164,7 @@ export default function Footer() {
                   href="https://www.creative-tim.com?ref=nnjs-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
-                  and all others
+                  and all others. CVR: 41008407
                 </a>
                 .
               </div>

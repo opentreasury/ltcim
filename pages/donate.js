@@ -238,7 +238,7 @@ export default function donate() {
                     With our Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
                     The food aid will be distributed to on ground civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 </p>
-                  <br/> Where the proceeds go to:100 % of all donations will be allocated to the<br/>                     
+                  <br/> Where the proceeds go to: 100 % of all donations will be allocated to the<br/>                     
                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">a. Procuring Food packets. </p>
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p> 
                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700">c. Technology Development & Maintenance by Foundation.</p>

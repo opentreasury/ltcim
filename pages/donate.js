@@ -210,23 +210,22 @@ export default function donate() {
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
-                    India is battling a ferocious second COVID-19 wave which has overwhelmed its fragile health system. Some frontline workers have claimed that “this wave is indeed a Tsunami.”
+                    India is battling a ferocious second COVID-19 wave. This has overwhelmed its fragile health system. Some frontline health workers have claimed that “this wave is indeed a Tsunami.”
 
-                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.
+                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable population.</p>
 
-                    Our impact group:
-                    E.g In Delhi, with its more than 30 million citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left"> Our impact group: In semi urban and semi rural regions, with its millions of citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
 
-                    India’s growth story and market opportunities depended strongly on its middle class households. And they are the most impacted either with the disease or the after effects of currently unorganised disease response.
+                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a dis-organised pandemic response.
                     A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
 
-                    Government is not the only institution that has to be responsible. Different pillars of democracy including the media and you- the people are all majority stakeholders in this continuing fight against the invisible virus.
-                    </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                    Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and you- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
+                    
+ 
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
-                    They need help and aid in a way that can bring them out of the crisis.
-                    Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
+                    They need help and aid in a way that can bring them out of the crisis. </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
                     Our next step is to feed these families to the scale that is unimaginable.
                     These families must be able to provide their loved ones with food.
                     We must support them. This is a declaration of humanity, one of the value structures that  “each human being has a right to food.”

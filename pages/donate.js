@@ -45,7 +45,7 @@ export default function donate() {
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
                     India is in a state of humanitarian crisis.
-                    Actual and correct data may not be visible due to multiple reasons such as lag in reporting,
+                    Actual and correct data may not be visible due to multiple reasons like reporting lag,
                     challenges in reconciliation between different states and health care units, socio-economic and political factors amongst others.
                   </p>
                 </div>
@@ -239,16 +239,16 @@ export default function donate() {
                     The food aid will be distributed to on ground civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 </p>
                   <br/> Where the proceeds go to: 100 % of all donations will be allocated to the<br/>                     
-                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700">a. Procuring Food packets. </p>
+                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700">a. Procuring of Food packets. </p>
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700">b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p> 
-                  <p className="mb-4 text-lg leading-relaxed text-blueGray-700">c. Technology Development & Maintenance by Foundation.</p>
+                  <p className="mb-4 text-lg leading-relaxed text-blueGray-700">c. Technology Development & Maintenance by Foundation to digitize the initiative.</p>
                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
                     However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.
                     Until then, we must help India and especially its most vulnerable with a first response.
                     </p>
                     <p className="mb-4 text-lg text-center leading-relaxed text-blueGray-700">
-                    <strong>Please donate. The buck stops here with YOU!</strong>
+                    <strong>Please donate. The buck stops with all of us!</strong>
                     </p>
                     <div className="flex flex-wrap mt-5 text-center">
                       <div className="w-full px-4 pt-4 mr-auto ml-auto">
@@ -268,7 +268,7 @@ export default function donate() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our Contributors</h2>
+                <h2 className="text-4xl font-semibold">Here are our contributors</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
                   Our volunteers are working day and night on this Covid Relief through social, financial and technical means.
                 </p>
@@ -284,7 +284,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Lara Muellner</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Board Member
                     </p>
                   </div>
@@ -299,7 +299,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Saransh Sharma</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Board Member
                     </p>
                   </div>
@@ -314,7 +314,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Devendra Yadav</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Software Developer
                     </p>
                   </div>
@@ -329,7 +329,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Kevin Madhu</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Software Developer
                     </p>
                   </div>
@@ -344,7 +344,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Nasser Yemdjih Kaze</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Software Engineer
                     </p>
                   </div>
@@ -359,7 +359,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Anurag Garg</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Solidity Developer
                     </p>
                   </div>
@@ -374,7 +374,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Dennis Chernenko</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       Social Connector
                     </p>
                   </div>
@@ -389,7 +389,7 @@ export default function donate() {
                   />
                   <div className="pt-6 text-center">
                     <h5 className="text-xl font-bold">Harsha Medireddy</h5>
-                    <p className="mt-1 text-sm text-blueGray-400 lowercase font-semibold">
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
                       People Connector
                     </p>
                   </div>

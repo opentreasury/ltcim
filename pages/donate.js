@@ -46,7 +46,7 @@ export default function donate() {
                   <p className="mt-4 text-lg text-blueGray-200">
                     India is in a state of humanitarian crisis.
                     Actual and correct data may not be visible due to multiple reasons such as lag in reporting,
-                    challenges in reconciliation between different states and health care units, socio-economic and political factors.
+                    challenges in reconciliation between different states and health care units, socio-economic and political factors amongst others.
                   </p>
                 </div>
               </div>
@@ -82,15 +82,14 @@ export default function donate() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                       <i className="fas fa-award"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">New Infections</h6>
+                    <h6 className="text-xl font-semibold">Curb the Contagion</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Going by the official numbers, over 400000 new infections are reported each day and the numbers keep on incresing with every minute.
+                      Going by the official numbers, over hundreds of thousands of new infections and countless deaths are being reported each day and the numbers keep on increasing with every minute.
                     </p>
-                    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
-                    style={{color:'#097fff'}}
-                    >
-                      WHO Data
-                    </a>
+                    <p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+                    style={{color:'#097fff'}}>
+                      WHO Data 
+                    </a></p>
                   </div>
                 </div>
               </div>
@@ -103,11 +102,12 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Join Us.</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Thousands of COVID-19 patients are in intensive care gasping for breathe and medical oxygen. Old and young alike are losing their lives against the deadly virus.
+                      Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the deadly virus.
                     </p>
-                    <p>
-                      Join us to save lives.
-                    </p>
+                                        <p><a href="https://learn.muellners.org"
+                    style={{color:'#097fff'}}>
+                      Join us to save lives. 
+                    </a></p>
                   </div>
                 </div>
               </div>
@@ -119,7 +119,8 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is Non-profit arm of Muellners based in Denmark which was registered by Muellners Limited Liability Group in Dec 2019.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening, a voluntary association, registered in Dec 2019, with several initiatives including promoting open source technologies such as <a href="https://finscale.org"
+                    style={{color:'#097fff'}}>Finscale</a> to solve global issues with key digital initiatives. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack and many more.
                     </p>
 
                   </div>
@@ -139,15 +140,15 @@ export default function donate() {
                   India is a country of diversified communities.
                   India is an important country in terms of the global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its young population is a promising land of opportunities and a land to discover spirituality.
+                  As the largest democracy in the world and with its young population, India is a promising land of opportunities and a land to discover spirituality.
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
                 The world is connected.
                 To enable India is to enable the future of the world.
 
-                While millions are projected to die due to this catastrophe, several millions face plight.
-                This plight is indeed around the basis of the human society that we have thus created.
+                While millions are projected to die due to this catastrophe, several millions face a plight.
+                This plight is in contrast to the basis of the human society - a basic human right to get Food.
                 </p>
               </div>
 
@@ -166,7 +167,7 @@ export default function donate() {
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
                     As we noticed last year during the challenging times of covid 1st wave, the most vulnerable in India were left without food security.
-                    And this wave is not going to change this dismal reality a lot.
+                    And this wave or future pandemic waves are not going to change this dismal reality a lot.
 
                     And this divide is becoming increasingly visible as the world navigates through this crisis.
 

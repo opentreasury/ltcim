@@ -241,10 +241,10 @@ export default function donate() {
                   <br/> Where the proceeds go to:<br/>
 
                     100 % of all donations will be allocated to the 
-                    <br>a. Procuring Food packets<br/> 
-                    <br> b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.<br/><br>3.Technology Development & Maintenance by Foundation
-                    <br/>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
+                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> a. Procuring Food packets.   </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p> 
+                  <p className="mb-4 text-lg leading-relaxed text-blueGray-700">c.Technology Development & Maintenance by Foundation.</p>
+                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
                     However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.
                     Until then, we must help India and especially its most vulnerable with a first response.

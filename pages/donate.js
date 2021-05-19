@@ -239,9 +239,9 @@ export default function donate() {
                     The food aid will be distributed to on ground civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 </p>
                   <br/> Where the proceeds go to: 100 % of all donations will be allocated to the<br/>                     
-                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700">a. Procuring of Food packets. </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</p> 
-                  <p className="mb-4 text-lg leading-relaxed text-blueGray-700">c. Technology Development & Maintenance by Foundation to digitize the initiative.</p>
+                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>a. Procuring of Food packets.</strong> </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</strong></p> 
+                  <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>c. Technology Development & Maintenance by Foundation to digitize the initiative.</strong></p>
                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
                     However, India must overcome this state of emergency, get the pandemic under control before people can get back to work and the economy is moving again.

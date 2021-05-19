@@ -119,7 +119,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening, a voluntary association, registered in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital initiatives. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack and many more.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening (a voluntary association), registered in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital practices. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack, Muellners LLC and many more.
                     </p>
 
                   </div>

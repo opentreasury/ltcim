@@ -25,7 +25,7 @@ export default function Index() {
                   rel="noopener noreferrer">
                   More than 75 million people are failing to access basic sustenance needs.
                 </a>
-                 We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
+               </p>  <p>We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
               </p>
               <div className="mt-12">
                 <a

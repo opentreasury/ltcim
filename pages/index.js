@@ -91,7 +91,7 @@ export default function Index() {
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
                     Recently, over 75 million Indian citizens have been pushed into poverty. They do not not have access to basics such as
-                  food, shelter, santiation and healthcare. Failing infrastructure needs to improved. 
+                  food, shelter, santitation and healthcare. Failing infrastructure needs to improved. 
                     
                   </p>
                 </blockquote>

@@ -248,7 +248,7 @@ export default function donate() {
                     Until then, we must help India and especially its most vulnerable with a first response.
                     </p>
                     <p className="mb-4 text-lg text-center leading-relaxed text-blueGray-700">
-                    <strong>Please donate. The buck stops with all of us!</strong>
+                    <strong>Please donate!</strong>
                     </p>
                     <div className="flex flex-wrap mt-5 text-center">
                       <div className="w-full px-4 pt-4 mr-auto ml-auto">

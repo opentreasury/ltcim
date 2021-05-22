@@ -44,7 +44,7 @@ export default function donate() {
                     We can't do it without your support.
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis unable to cope with the virus with it's own means. 
+                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis. 
                     
                   </p>
                 </div>
@@ -101,7 +101,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Join Us.</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the deadly virus.
+                      Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the virus.
                     </p>
                                         <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
@@ -135,18 +135,18 @@ export default function donate() {
                   Each lost life is a deadly reminder of the vulnerability of humankind.
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  India is a country of diversified communities.
+                 
                   India is an important country in terms of our global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its young population, India has a promising future and is a land to discover spirituality.
+                  As the largest democracy in the world and with its diversified young population, India has a promising future.To enable India is to enable the future of the world. 
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                The world is connected.
-                To enable India is to enable the future of the world.
+                
+                
 
-                While millions are projected to die due to this catastrophe, several millions face a plight.
-                This plight is in contrast to the basis of the human society - a basic human right to get Food.
+                While millions are projected to die due to this catastrophy, several millions face a plight.
+                This plight is in contrast to the basis of the human society - a basic human right to get food.
                 </p>
               </div>
 
@@ -164,8 +164,8 @@ export default function donate() {
                       Food Security
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                    As we noticed last year during the challenging times of covid 1st wave, the most vulnerable in India were left without food security.
-                    And this wave or future pandemic waves are not going to change this dismal reality a lot.
+                    As we noticed last year during the challenging times of the first COVID-19 wave, the most vulnerable in India were left without food security.
+                    This wave or future pandemic waves are not going to change this dismal reality a lot.
 
                     And this divide is becoming increasingly visible as the world navigates through this crisis.
 
@@ -208,7 +208,7 @@ export default function donate() {
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
-                    India is battling a ferocious second COVID-19 wave. This has overwhelmed its fragile health system. Some frontline health workers have claimed that “this wave is indeed a Tsunami.”
+                    
 
                     During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable population.</p>
 

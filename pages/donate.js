@@ -220,7 +220,7 @@ export default function donate() {
                     
                     
  
-                    Statistically, this vulnerable group of daily wage workers have zero to little savings.
+                    Statistically, this vulnerable group of daily wage workers and their families have zero to little savings.
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
                     They need help and aid in a way that can bring them out of the crisis. Providing food is critical to prevent an exacerbating hunger crisis alongside this health crisis. </p>
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> 

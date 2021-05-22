@@ -145,7 +145,7 @@ export default function donate() {
                 
                 
 
-                While millions are projected to die due to this catastrophy, several millions face a plight.
+                While millions are projected to die due to this catastrophe, several millions face a plight.
                 This plight is in contrast to the basis of the human society - a basic human right to get food.
                 </p>
               </div>

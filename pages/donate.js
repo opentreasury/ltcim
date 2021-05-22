@@ -210,7 +210,7 @@ export default function donate() {
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
                     
 
-                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable population.</p>
+                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.</p>
 
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left"> Our impact group: In semi urban and semi rural regions, with its millions of citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
 

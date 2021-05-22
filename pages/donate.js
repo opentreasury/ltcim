@@ -85,7 +85,7 @@ export default function donate() {
                     <p className="mt-2 mb-4 text-blueGray-500">
                       Going by the official numbers, over hundreds of thousands of new infections and countless deaths are being reported each day and the numbers keep on increasing with every minute.
                     </p>
-                    <p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+                    <p><a href="https://covid19.who.int/region/searo/country/in"
                     style={{color:'#097fff'}}>
                       WHO Data 
                     </a></p>
@@ -99,13 +99,13 @@ export default function donate() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                       <i className="fas fa-retweet"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Join Us.</h6>
+                    <h6 className="text-xl font-semibold">Join the team.</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
                       Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the virus.
                     </p>
                                         <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
-                      Join us to save lives. 
+                      Join our team to save lives. 
                     </a></p>
                   </div>
                 </div>
@@ -118,7 +118,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening (a voluntary association), registered in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital practices. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack, Muellners LLC and many more.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a voluntary association, registered in Denmark Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital practices. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack, Muellners LLC and many more.
                     </p>
 
                   </div>
@@ -138,7 +138,7 @@ export default function donate() {
                  
                   India is an important country in terms of our global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its diversified young population, India has a promising future.To enable India is to enable the future of the world. 
+                  As the largest democracy in the world and with its diversified young population, India has a promising future. To enable India is to enable the future of the world. 
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
@@ -214,21 +214,19 @@ export default function donate() {
 
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left"> Our impact group: In semi urban and semi rural regions, with its millions of citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
 
-                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a unorganised pandemic response.
-                    A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
+                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after-effects of an unorganised pandemic response.
+                    A huge group of lower middle class households have either lost their breadwinners to COVID-19 or the families have lost their livelihoods due to the pandemic.
 
-                    Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
+                    
                     
  
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
-                    They need help and aid in a way that can bring them out of the crisis. </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
-                    Our next step is to feed these families to the scale that is unimaginable.
-                    These families must be able to provide their loved ones with food.
-                    We must support them. This is a declaration of humanity, one of the tenet that “each human being has a right to food.”
+                    They need help and aid in a way that can bring them out of the crisis. Providing food is critical to prevent an exacerbating hunger crisis alongside this health crisis. </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> 
+                    
 
-                    To prevent an exacerbating hunger crisis alongside this health crisis, providing food as first aid is critical.
+                   
 
                     </p>
 

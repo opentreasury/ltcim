@@ -87,12 +87,12 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    For 75+ million, who got pushed into poverty.
+                    For more than 75 million people, who got pushed into poverty.
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                    Recently, over 75 million Indian citizen have got pushed into poverty. They will not have access to basics-
-                    quality food , healthcare and day to day expense. Failing infrastructure needs to improved. Hence,
-                    Bitrupee, a digital currency backed by spirits of building an open source based health system.
+                    Recently, over 75 million Indian citizens have been pushed into poverty. They do not not have access to basics such as
+                  food, shelter, santiation and healthcare. Failing infrastructure needs to improved. 
+                    
                   </p>
                 </blockquote>
               </div>
@@ -110,7 +110,7 @@ export default function Index() {
                         Active participation
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Community based joint multi-signature accounts , everyone participates in the movement of funds to the beneficiary.
+                        Community based joint multi-signature accounts, everyone participates in the movement of funds to the beneficiary.
                       </p>
                     </div>
                   </div>
@@ -136,7 +136,7 @@ export default function Index() {
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">Multi-Currency</h6>
                       <p className="mb-4 text-blueGray-500">
-                        Donate in any currency and see where is your money spent, system are being designed to keep end to end tracking.
+                        Donate in any currency and see where your money is spent. Bitrupee is based on LTCIM - liquidity to crisis in motion - a concept, designed to keep end to end tracking.
                       </p>
                     </div>
                   </div>

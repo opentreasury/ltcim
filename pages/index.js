@@ -169,8 +169,7 @@ export default function Index() {
                 Transparency
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Non-Profit oversees a flow of information concerning the identities of the individuals and partner organisations helping people in need, who are currently out of work, due to the
-                current pandemic challenges.
+                Non-Profit oversees a flow of information concerning the identities of the individuals and partner organisations helping people in need.
                 A liability account with the corresponding
                 KYC certificates will be issued to all - the donors and those among whom the donation will be distributed.
               </p>

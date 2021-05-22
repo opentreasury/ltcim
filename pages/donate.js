@@ -268,9 +268,9 @@ export default function donate() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our contributors</h2>
+                <h2 className="text-4xl font-semibold">Our contributors</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  Our volunteers are working day and night on this Covid Relief through social, financial and technical means.
+                  Our volunteers are working day and night on this COVID-19 relief through social, financial and technical means.
                 </p>
               </div>
             </div>

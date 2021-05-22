@@ -44,9 +44,8 @@ export default function donate() {
                     We can't do it without your support.
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                    India is in a state of humanitarian crisis.
-                    Actual and correct data may not be visible due to multiple reasons like reporting lag,
-                    challenges in reconciliation between different states and health care units, socio-economic and political factors amongst others.
+                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis unable to cope with the virus with it's own means. 
+                    
                   </p>
                 </div>
               </div>

@@ -23,16 +23,16 @@ export default function Index() {
                   className="text-blueGray-600"
                   target="_blank"
                   rel="noopener noreferrer">
-                  75+ million Indians are failing to access basic sustenance needs.
+                  More than 75 million people are failing to access basic sustenance needs.
                 </a>
-                 We bring an economic system that aims to distribute value. Equitable, Fair and with Transparency.
+                 We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
               </p>
               <div className="mt-12">
                 <a
                   href="/donate"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
-                  Donate for Improving HealthCare in India
+                  Donate to support this initiative.
                 </a>
               </div>
             </div>
@@ -149,7 +149,7 @@ export default function Index() {
                         Open healthcare
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        With Bitrupee, we start the foundation of open source healthcare system driven by communities.
+                        With Bitrupee, we start the foundation of open source crisis response driven by communities.
                       </p>
                     </div>
                   </div>
@@ -169,10 +169,10 @@ export default function Index() {
                 Transparency
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Non-Profit oversees a flow of information concerning the identities of the individuals and partner organisations - Target Group, who are currently out of work, due to the
+                Non-Profit oversees a flow of information concerning the identities of the individuals and partner organisations helping people in need, who are currently out of work, due to the
                 current pandemic challenges.
                 A liability account with the corresponding
-                KYC certificates will be issued to all - both the donors and those among whom the donation will be distributed.
+                KYC certificates will be issued to all - the donors and those among whom the donation will be distributed.
               </p>
             </div>
             <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
@@ -183,9 +183,9 @@ export default function Index() {
                   Open Resource Management
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Manage resources using multi signature wallet that allows transfer of ownership using a set threshold measures.
+                  Manage resources using a multi signature wallet that allows transfer of ownership using a set threshold measure.
                   Current resource distribution is accumulated in centrally powered
-                  entities that leads to moral hazard. In absence of unaccountable
+                  entities which leads to moral hazard. In absence of unaccountable
                   leaders with common users practicing low political power, governing agencies may advance their own interests.
                 </p>
                 </div>
@@ -197,7 +197,7 @@ export default function Index() {
                   Economic Incentives
                 </h3>
                 <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  Economic incentives to participate. Participant of all sides are incentivised to vote and help acheive goals and management of funds for various purposes.
+                  Economic incentives to participate. Participants of all sides are incentivised to vote and help acheive goals and management of funds for various purposes.
                 </p>
                 <ul className="list-none mt-6">
                   <li className="py-2">
@@ -237,7 +237,7 @@ export default function Index() {
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Participate to contribute to a new world
+                          Participate to contribute to this initiative.
                         </h4>
                       </div>
                     </div>
@@ -267,7 +267,7 @@ export default function Index() {
                 >
                   initiative
                 </a>{" "}
-                is an open source project, this is a movement that employs different ideas that work together. Join us or contribute in different ways.
+                is an open source project. It is a movement that employs different ideas that work together. Join us or contribute in different ways.
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
                 Give us a star on Github and please help us spread the news!
@@ -316,7 +316,7 @@ export default function Index() {
                 Do you want to help?
               </h3>
               <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-                Cause if you do , please contribute!
+                Please contribute!
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a

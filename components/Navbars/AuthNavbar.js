@@ -14,7 +14,7 @@ export default function Navbar(props) {
             <Link href="/">
               <a
                 className="text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
-                href="#"
+                href="https://bitrupee.net"
               >
                 Bitrupee
               </a>

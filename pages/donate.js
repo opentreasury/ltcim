@@ -33,9 +33,8 @@ export default function donate() {
                     We can't do it without your support.
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                    India is in a state of humanitarian crisis.
-                    Actual and correct data may not be visible due to multiple reasons like reporting lag,
-                    challenges in reconciliation between different states and health care units, socio-economic and political factors amongst others.
+                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis. 
+                    
                   </p>
                 </div>
               </div>
@@ -75,7 +74,7 @@ export default function donate() {
                     <p className="mt-2 mb-4 text-blueGray-500">
                       Going by the official numbers, over hundreds of thousands of new infections and countless deaths are being reported each day and the numbers keep on increasing with every minute.
                     </p>
-                    <p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+                    <p><a href="https://covid19.who.int/region/searo/country/in"
                     style={{color:'#097fff'}}>
                       WHO Data
                     </a></p>
@@ -89,13 +88,17 @@ export default function donate() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                       <i className="fas fa-retweet"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Join Us.</h6>
+                    <h6 className="text-xl font-semibold">Join the team.</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the deadly virus.
+                      Thousands of COVID-19 patients require intensive care, gasping for breath and medical oxygen. Old and young alike are losing their lives against the virus.
                     </p>
                                         <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
+<<<<<<< HEAD
                       Join us to save lives.
+=======
+                      Join our team to save lives. 
+>>>>>>> 5d92421ed45de13afb84ed62137c7aaa95cc633a
                     </a></p>
                   </div>
                 </div>
@@ -108,7 +111,7 @@ export default function donate() {
                     </div>
                     <h6 className="text-xl font-semibold">Verified Non-Profit</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a frivillig forening, a voluntary association, registered in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital initiatives. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack and many more.
+                      <a target="_blank" style={{color:'#097fff'}} href="https://www.muellners.org/">Muellners Foundation</a> is a voluntary association, registered in Denmark in Dec 2019, with several initiatives including promoting open source technologies such as <a target="_blank" style={{color:'#097fff'}} href="https://finscale.org"> Finscale </a> to solve global issues with key digital practices. The Foundation is supported by generous grants from Google for Non Profits, AWS, Atlassian, Slack, Muellners LLC and many more.
                     </p>
 
                   </div>
@@ -125,18 +128,18 @@ export default function donate() {
                   Each lost life is a deadly reminder of the vulnerability of humankind.
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  India is a country of diversified communities.
+                 
                   India is an important country in terms of our global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its young population, India has a promising future and is a land to discover spirituality.
+                  As the largest democracy in the world and with its diversified young population, India has a promising future. To enable India is to enable the future of the world. 
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                The world is connected.
-                To enable India is to enable the future of the world.
+                
+                
 
                 While millions are projected to die due to this catastrophe, several millions face a plight.
-                This plight is in contrast to the basis of the human society - a basic human right to get Food.
+                This plight is in contrast to the basis of the human society - a basic human right to get food.
                 </p>
               </div>
 
@@ -154,8 +157,8 @@ export default function donate() {
                       Food Security
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                    As we noticed last year during the challenging times of covid 1st wave, the most vulnerable in India were left without food security.
-                    And this wave or future pandemic waves are not going to change this dismal reality a lot.
+                    As we noticed last year during the challenging times of the first COVID-19 wave, the most vulnerable in India were left without food security.
+                    This wave or future pandemic waves are not going to change this dismal reality a lot.
 
                     And this divide is becoming increasingly visible as the world navigates through this crisis.
 
@@ -198,27 +201,32 @@ export default function donate() {
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
-                    India is battling a ferocious second COVID-19 wave. This has overwhelmed its fragile health system. Some frontline health workers have claimed that “this wave is indeed a Tsunami.”
+                    
 
-                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable population.</p>
+                    During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.</p>
 
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left"> Our impact group: In semi urban and semi rural regions, with its millions of citizens, the pandemic has led to daily wage and unorganised workforce losing their livelihood and sustenance.
 
-                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after effects of a unorganised pandemic response.
-                    A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
+                    India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after-effects of an unorganised pandemic response.
+                    A huge group of lower middle class households have either lost their breadwinners to COVID-19 or the families have lost their livelihoods due to the pandemic.
 
+<<<<<<< HEAD
                     Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
 
 
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
+=======
+                    
+                    
+ 
+                    Statistically, this vulnerable group of daily wage workers and their families have zero to little savings.
+>>>>>>> 5d92421ed45de13afb84ed62137c7aaa95cc633a
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
-                    They need help and aid in a way that can bring them out of the crisis. </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> Our immediate cause is to intervene with a “disaster response” by setting up community kitchens using digital initiatives at the foreplay.
-                    Our next step is to feed these families to the scale that is unimaginable.
-                    These families must be able to provide their loved ones with food.
-                    We must support them. This is a declaration of humanity, one of the tenet that “each human being has a right to food.”
+                    They need help and aid in a way that can bring them out of the crisis. Providing food is critical to prevent an exacerbating hunger crisis alongside this health crisis. </p>
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> 
+                    
 
-                    To prevent an exacerbating hunger crisis alongside this health crisis, providing food as first aid is critical.
+                   
 
                     </p>
 
@@ -237,7 +245,7 @@ export default function donate() {
                     Until then, we must help India and especially its most vulnerable with a first response.
                     </p>
                     <p className="mb-4 text-lg text-center leading-relaxed text-blueGray-700">
-                    <strong>Please donate. The buck stops with all of us!</strong>
+                    <strong>Please donate!</strong>
                     </p>
                     <div className="flex flex-wrap mt-5 text-center">
                       <div className="w-full px-4 pt-4 mr-auto ml-auto">
@@ -255,9 +263,9 @@ export default function donate() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our contributors</h2>
+                <h2 className="text-4xl font-semibold">Our contributors</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  Our volunteers are working day and night on this Covid Relief through social, financial and technical means.
+                  Our volunteers are working day and night on this COVID-19 relief through social, financial and technical means.
                 </p>
               </div>
             </div>

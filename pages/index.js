@@ -22,7 +22,9 @@ export default function Index() {
                   rel="noopener noreferrer">
                   more than 75 million people are failing to access basic sustenance needs.
                 </a>
-               </p>We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
+               </p>
+              <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
+                We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
               </p>
               <div className="mt-12">
                 <a

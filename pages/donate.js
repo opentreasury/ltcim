@@ -1,14 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import {loadStripe} from '@stripe/stripe-js';
-import {
-  CardElement,
-  Elements,
-  useStripe,
-  useElements,
-} from '@stripe/react-stripe-js';
-
-
 
 // components
 
@@ -16,8 +7,6 @@ import Navbar from "components/Navbars/AuthNavbar.js";
 import Footer from "components/Footers/Footer.js";
 import CheckoutForm from "components/Payments/CheckoutForm.js";
 
-// constants
-const stripePromise = loadStripe('pk_live_f1QXHWq2s6Ws9TBvq92kCnrA00MriUqIpq');
 
 export default function donate() {
   return (
@@ -88,7 +77,7 @@ export default function donate() {
                     </p>
                     <p><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
                     style={{color:'#097fff'}}>
-                      WHO Data 
+                      WHO Data
                     </a></p>
                   </div>
                 </div>
@@ -106,7 +95,7 @@ export default function donate() {
                     </p>
                                         <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
-                      Join us to save lives. 
+                      Join us to save lives.
                     </a></p>
                   </div>
                 </div>
@@ -219,8 +208,8 @@ export default function donate() {
                     A huge group of lower middle class households have either lost their breadwinners to covid or the families have lost their livelihoods due to the pandemic.
 
                     Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
-                    
- 
+
+
                     Statistically, this vulnerable group of daily wage workers have zero to little savings.
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
                     They need help and aid in a way that can bring them out of the crisis. </p>
@@ -238,9 +227,9 @@ export default function donate() {
                     With our Food Aid, Muellners Foundation will set up kitchens and provide meals or food ration packets to people in need.
                     The food aid will be distributed to on ground civic authorities and front line workers such as Municipality Departments, Police Departments and other local NGO partners, including representatives of people.
 </p>
-                  <br/> Where the proceeds go to: 100 % of all donations will be allocated to the<br/>                     
+                  <br/> Where the proceeds go to: 100 % of all donations will be allocated to the<br/>
                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>a. Procuring of Food packets.</strong> </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</strong></p> 
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>b. Provisions for personal protective equipment for the distributors and social workers, engaged in this initiative.</strong></p>
                   <p className="mb-4 text-lg leading-relaxed text-blueGray-700"><strong>c. Technology Development & Maintenance by Foundation to digitize the initiative.</strong></p>
                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
                     We understand that these measures are only short-term solutions to the crisis.
@@ -252,9 +241,7 @@ export default function donate() {
                     </p>
                     <div className="flex flex-wrap mt-5 text-center">
                       <div className="w-full px-4 pt-4 mr-auto ml-auto">
-                        <Elements stripe={stripePromise}>
                           <CheckoutForm />
-                        </Elements>
                       </div>
                     </div>
                   </div>

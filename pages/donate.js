@@ -33,8 +33,8 @@ export default function donate() {
                     We can't do it without your support.
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis. 
-                    
+                    COVID-19 has overwhelmed India's health system. The country is in a state of humanitarian crisis.
+
                   </p>
                 </div>
               </div>
@@ -94,11 +94,7 @@ export default function donate() {
                     </p>
                                         <p><a target="_blank" href="https://learn.muellners.org"
                     style={{color:'#097fff'}}>
-<<<<<<< HEAD
-                      Join us to save lives.
-=======
-                      Join our team to save lives. 
->>>>>>> 5d92421ed45de13afb84ed62137c7aaa95cc633a
+                      Join our team to save lives.
                     </a></p>
                   </div>
                 </div>
@@ -128,15 +124,15 @@ export default function donate() {
                   Each lost life is a deadly reminder of the vulnerability of humankind.
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                 
+
                   India is an important country in terms of our global fight against the pandemic. It is also a country where a huge scale of vaccine manufacturing facilities exist.
                   There are several mutations being identified and these will show up in other parts of the world.
-                  As the largest democracy in the world and with its diversified young population, India has a promising future. To enable India is to enable the future of the world. 
+                  As the largest democracy in the world and with its diversified young population, India has a promising future. To enable India is to enable the future of the world.
 
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                
-                
+
+
 
                 While millions are projected to die due to this catastrophe, several millions face a plight.
                 This plight is in contrast to the basis of the human society - a basic human right to get food.
@@ -201,7 +197,7 @@ export default function donate() {
                 <div className="flex flex-wrap justify-center">
                   <div className="w-full lg:w-9/12 px-4">
                     <p className="mb-4 text-lg leading-relaxed text-blueGray-700 text-left">
-                    
+
 
                     During this state of health crisis, where communities are unable to cope, philanthropic funding is often quickly available. However, it is essential to reach the most affected and most vulnerable populations.</p>
 
@@ -210,23 +206,16 @@ export default function donate() {
                     India’s growth story and market opportunities depended strongly on its middle class households. And they are also impacted either with the disease or the after-effects of an unorganised pandemic response.
                     A huge group of lower middle class households have either lost their breadwinners to COVID-19 or the families have lost their livelihoods due to the pandemic.
 
-<<<<<<< HEAD
-                    Government is not the only institution that has to be held responsible. Different pillars of democracy including the media and You- the people including global citizens are all majority stakeholders in this continuing fight against the invisible virus.
 
 
-                    Statistically, this vulnerable group of daily wage workers have zero to little savings.
-=======
-                    
-                    
- 
+
                     Statistically, this vulnerable group of daily wage workers and their families have zero to little savings.
->>>>>>> 5d92421ed45de13afb84ed62137c7aaa95cc633a
                     Most of them are non banked and underbanked. With loss of livelihood, imagine the harsh circumstances that these families are going through right now.
                     They need help and aid in a way that can bring them out of the crisis. Providing food is critical to prevent an exacerbating hunger crisis alongside this health crisis. </p>
-                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700"> 
-                    
+                    <p className="mb-4 text-lg leading-relaxed text-blueGray-700">
 
-                   
+
+
 
                     </p>
 

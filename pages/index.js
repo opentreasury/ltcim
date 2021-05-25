@@ -90,8 +90,8 @@ export default function Index() {
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
                     Recently, over 75 million Indian citizens have been pushed into poverty. They do not not have access to basics such as
-                  food, shelter, santitation and healthcare. Failing infrastructure needs to improved. 
-                    
+                  food, shelter, santitation and healthcare. Failing infrastructure needs to improved.
+
                   </p>
                 </blockquote>
               </div>
@@ -318,7 +318,7 @@ export default function Index() {
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a
-                  href="/donate"
+                  href="https://donorbox.org/bitrupee-1"
                   className="sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
                   <span>Donate Now</span>

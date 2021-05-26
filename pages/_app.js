@@ -70,7 +70,7 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-        <title>Bitrupee : Equitable, Fair Transaparent Open Crisis Fund </title>
+        <title>Bitrupee : Equitable, Fair Transparent Open Crisis Fund </title>
           <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
           <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6592409.js"></script>
         </Head>

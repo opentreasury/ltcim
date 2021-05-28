@@ -18,7 +18,7 @@ export default function Index() {
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
                 Digital INR or Bitrupee is the need of the hour, we are in the crisis where more than 75 million people are failing to access basic sustenance needs.
-                
+
                </p>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
                 We bring an economic system that aims to distribute value. Equitable, fair and with transparency.
@@ -28,7 +28,7 @@ export default function Index() {
                   href="/donate"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
-                  Donate to support this initiative.
+                  Support this initiative.
                 </a>
               </div>
             </div>
@@ -132,7 +132,7 @@ export default function Index() {
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">Multi-Currency</h6>
                       <p className="mb-4 text-blueGray-500">
-                        Donate in any currency and see where your money is spent. Bitrupee is based on LTCIM - liquidity to crisis in motion - a concept, designed to keep end to end tracking.
+                        Support in any currency and see where your money is spent. Bitrupee is based on LTCIM - liquidity to crisis in motion - a concept, designed to keep end to end tracking.
                       </p>
                     </div>
                   </div>
@@ -318,7 +318,7 @@ export default function Index() {
                   href="https://donorbox.org/bitrupee-1"
                   className="sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
-                  <span>Donate Now</span>
+                  <span>Support</span>
                 </a>
               </div>
               <div className="text-center mt-16"></div>

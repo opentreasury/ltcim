@@ -424,6 +424,21 @@ export default function donate() {
                   </div>
                 </div>
               </div>
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/johnson-chetty.jpg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Johnson Chetty</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Systems Architect
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </section>

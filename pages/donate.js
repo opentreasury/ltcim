@@ -319,7 +319,7 @@ export default function donate() {
                   </div>
                 </div>
               </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
                 <div className="px-6">
                   <img
                     alt="..."
@@ -334,7 +334,7 @@ export default function donate() {
                   </div>
                 </div>
               </div>
-              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+              <div className="mt-5 w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
                 <div className="px-6">
                   <img
                     alt="..."

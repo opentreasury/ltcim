@@ -308,6 +308,36 @@ export default function donate() {
                 <div className="px-6">
                   <img
                     alt="..."
+                    src="/img/lira-priyadarsani.jpeg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Lira Priyadarsani</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Advisory Board
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
+                    src="/img/dinesh-singh.jpg"
+                    className="shadow-lg rounded-full mx-auto max-w-120-px"
+                  />
+                  <div className="pt-6 text-center">
+                    <h5 className="text-xl font-bold">Dinesh Singh</h5>
+                    <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
+                      Steering Board
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+                <div className="px-6">
+                  <img
+                    alt="..."
                     src="/img/devendra-yadav.jpeg"
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
